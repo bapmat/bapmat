@@ -4,8 +4,8 @@
 프로그래밍은 배울수록 어렵고 생각이 많아지는 것 같습니다.</br>
 그 때마다 포기하지 않고 꾸준히 노력해서 놓치지 않을거에요.</br>
 
-[![Naver blog Badge](https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/kimbapmat)](https://blog.naver.com/kimbapmat)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kimbapmat@naver.com)](mailto:kimbapmat@naver.com)
+<!--[![Naver blog Badge](https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/kimbapmat)](https://blog.naver.com/kimbapmat)-->
+[![Naver Badge](https://img.shields.io/badge/NaverMail-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kimbapmat@naver.com)](mailto:kimbapmat@naver.com)
 </br>
 
 ## 목표 😳
