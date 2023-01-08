@@ -3,23 +3,22 @@
 안녕하세요 👋</br>
 프로그래밍은 배울수록 어렵고 생각이 많아지는 것 같습니다.</br>
 그 때마다 포기하지 않고 꾸준히 노력해서 놓치지 않을거에요.</br>
+
+[![Naver blog Badge](https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/kimbapmat)](https://blog.naver.com/kimbapmat)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kimbapmat@naver.com)](mailto:kimbapmat@naver.com)
 </br>
 
+## 목표 😳
+1. 닷넷(.NET) 개발자로서 커리어를 더 쌓고 싶습니다.
+2. 통계 관련해서 공부를 더 꾸준히 하고 싶어요.
+</br>
 
 ## 프로젝트 😉
 C# 개발 경험과 ASP.NET 개발 경험이 있습니다.
+</br>
 
-
-## 목표 😳
-1. .NET 개발자로서 커리어를 더 쌓고 싶습니다.
-2. 통계 관련해서 공부를 더 꾸준히 하고 싶어요.
-
-
-## Contacts :mailbox_with_mail:
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kimbapmat.tistory.com/)](https://kimbapmat.tistory.com/)
-[![Naver blog Badge](https://img.shields.io/badge/-Naver%20blog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/kimbapmat)](https://blog.naver.com/kimbapmat)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kimbapmat@naver.com)](mailto:kimbapmat@naver.com)
-
+<!--## Contacts :mailbox_with_mail:
+[![Tistory Blog Badge](https://img.shields.io/badge/Tistory-FF7200?style=flat-square&link=https://kimbapmat.tistory.com/)](https://kimbapmat.tistory.com/)-->
 
 <!--
 **bapmat/bapmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,7 +54,6 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bapmat&layout=compact)](https://github.com/bapmat/language)
 
 
 ## Studying 📌
@@ -64,6 +62,9 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
 </br>
 </br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimbapmat)](https://solved.ac/kimbapmat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bapmat&layout=compact)](https://github.com/bapmat/language)
+</br>
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=bapmat&theme=highcontrast)](https://git.io/streak-stats)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimbapmat)](https://solved.ac/kimbapmat)-->
 
 <!--![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)-->
